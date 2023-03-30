@@ -30,17 +30,17 @@ Project folders
 Before running this project, you will need to have the following software installed:
 
 1. Node.js v12 or higher
-2. MySql 8 or higher
+2. MySql 8 or higher , make sure to import the dump if need be
 3. php 8 , install via [Xampp Apache](https://www.apachefriends.org/index.html) . Make php or php.exe Globally available as well .
 4. Install composer from [Website](https://getcomposer.org/download/)  
 
 ### To install
 1.  **front-end** - Cd into the folder .  Install dependencies: `npm install` , To run the front end ,still the same folder run   ` npm run dev `  the application will be available at http://localhost:3000
-2. **fruit-test-api** -
-        -   CD into the folder and run . 
-        -   To install dependancies or libs run `php composer.phar install` or `composer install` and
-        -   [Install Symfony CLI](https://symfony.com/download)   . 
-        -   To run the the app , if all is well `symfony server:start`  the backend app will be available at :  http://127.0.0.1:8000
+2. **fruit-test-api** :
+   * CD into the folder and run .
+   * To install dependancies or libs run `php composer.phar install` or `composer install` and
+   * [Install Symfony CLI](https://symfony.com/download)   .
+   * To run the the app , if all is well `symfony server:start`  the backend app will be available at :  http://127.0.0.1:8000
 
 
 
